@@ -11,4 +11,8 @@ int main() {
     Int z = x + y;
 
     cout << z.getValue() << endl;
+
+    z = x * y;
+
+    cout << z.getValue() << endl;
 }
